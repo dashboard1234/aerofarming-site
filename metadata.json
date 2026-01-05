@@ -1,0 +1,8 @@
+
+{
+  "name": "AeroFarming - Sub-Canopy Orchard Intelligence",
+  "description": "Autonomous AI-driven drone systems designed for complex orchard environments to detect disease and estimate yields with precision.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
